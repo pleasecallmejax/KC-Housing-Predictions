@@ -4,8 +4,8 @@ This repo contains the materials used to predict house prices in King County, WA
 
 This repo contains:
 
-a jupyter notebook detailing EDA and inference process: Bakeoff_modeling_process.ipynb.
-a jupyter notebook for feature engineering and model development: Bakeoff_modeling_process.ipynb.
+a jupyter notebook detailing EDA and inference process: Bakeoff_Final.ipynb.
+a jupyter notebook for feature engineering and model development: Bakeoff_Final.ipynb.
 a jupyter notebook to predict on holdout data: Predict_holdout.ipynb.
 folder containing pickled items:Pickle_Jar
 folder containing CSVs:Data
